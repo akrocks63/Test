@@ -1,1 +1,1 @@
-d
+akash dev
